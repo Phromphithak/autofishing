@@ -7,7 +7,7 @@ pyautogui and pillow<br>
 
 this is simple screen capture for make u bot game or someting<br>
 
-How to use<br>
+<H2>How to use<H2><br>
     1.Create a venv<br> 
     2.run venv<br>
     3.pip install keyboard <br>
