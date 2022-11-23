@@ -1,10 +1,4 @@
 # autofishing 5m Berlin RP 1.0<br>
-Before Start u should need to create venv first and <br>
-import <br>
-Keyboard <br>
-directionput <br>
-pyautogui and pillow<br>
-
 this is simple screen capture for make u bot game or someting<br>
 
 <H2>How to use</H2>
