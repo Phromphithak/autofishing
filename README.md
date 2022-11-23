@@ -15,3 +15,6 @@ How to use
     5.python3 -m pip install --upgrade Pillow 
     6.pip install pyautogui
     and run the script have fun
+Readthis :
+use game sitting reslution 5m = 1600x900 borderless
+if u dont need create a venv jump to step 3
