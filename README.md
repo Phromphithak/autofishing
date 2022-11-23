@@ -16,5 +16,6 @@ How to use
     6.pip install pyautogui
     and run the script have fun
 Readthis :
-use game sitting reslution 5m = 1600x900 borderless
+use game setting resolution 5m = 1600x900 borderless 
+if u not do this is not work maybe
 if u dont need create a venv jump to step 3
