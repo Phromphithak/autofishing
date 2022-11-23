@@ -5,7 +5,7 @@ import time as t
 import PIL
 
 #config
-time = 1                         #for duration before start round fish for berlin 1.0 u not need sleep
+time = 0                         #for duration before start round fish for berlin 1.0 u not need sleep
 round = 9999 + 1                 #make round time to 10000 default
 
 def search():
