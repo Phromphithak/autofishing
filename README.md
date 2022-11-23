@@ -1,21 +1,21 @@
-# autofishing 5m Berlin RP 1.0
-Before Start u should need to create venv first and 
-import 
-Keyboard 
-directionput 
-pyautogui and pillow
+# autofishing 5m Berlin RP 1.0<br>
+Before Start u should need to create venv first and <br>
+import <br>
+Keyboard <br>
+directionput <br>
+pyautogui and pillow<br>
 
-this is simple screen capture for make u bot game or someting
+this is simple screen capture for make u bot game or someting<br>
 
-How to use
-    1.Create a venv 
-    2.run venv
-    3.pip install keyboard 
-    4.pip install PyDirectInput
-    5.python3 -m pip install --upgrade Pillow 
-    6.pip install pyautogui
-    and run the script have fun
-Readthis :
-use game setting resolution 5m = 1600x900 borderless 
-if u not do this is not work maybe
-if u dont need create a venv jump to step 3
+How to use<br>
+    1.Create a venv<br> 
+    2.run venv<br>
+    3.pip install keyboard <br>
+    4.pip install PyDirectInput <br>
+    5.python3 -m pip install --upgrade Pillow <br> 
+    6.pip install pyautogui <br>
+    and run the script have fun<br>
+Readthis :<br>
+use game setting resolution 5m = 1600x900 borderless<br> 
+if u not do this is not work maybe<br>
+if u dont need create a venv jump to step 3<br>
