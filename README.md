@@ -2,7 +2,7 @@
 Before Start u should need to create venv first and 
 import 
 Keyboard 
-directinput 
+directionput 
 pyautogui and pillow
 
 this is simple screen capture for make u bot game or someting
