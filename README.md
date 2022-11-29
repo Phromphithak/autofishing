@@ -5,10 +5,10 @@ this is simple screen capture for make u bot game or someting **NOT REAL TIME**<
 
     > 1.Create a venv
     > 2.run venv
-    > 3.pip install keyboard 
-    > 4.pip install PyDirectInput 
-    > 5.python3 -m pip install --upgrade Pillow  
-    > 6.pip install pyautogui 
+    > 3.py -m pip install keyboard 
+    > 4.py -m pip install PyDirectInput 
+    > 5.py -m pip install --upgrade Pillow  
+    > 6.py -m pip install pyautogui 
     > and run the script have fun 
 Readthis :<br>
 #------resulution for 1920x1080p-----#<br>
