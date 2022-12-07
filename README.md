@@ -1,4 +1,4 @@
-# autofishing 5m Berlin RP 1.0<br>
+# autofishing 5m <br>
 this is **simple** screen capture for make u bot game or someting<br>
 
 <H2>How to use</H2>
