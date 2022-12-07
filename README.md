@@ -12,4 +12,3 @@ this is simple screen capture for make u bot game or someting **NOT REAL TIME**<
     > 7.py -m pip install opencv
     > and run the script have fun 
 
-if u dont need create a venv jump to step 3<br>
