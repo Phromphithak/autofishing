@@ -12,3 +12,4 @@ this is **simple** screen capture for make u bot game or someting<br>
     > 7.py -m pip install opencv
     > and run the script have fun 
 
+none-update all cancel
