@@ -14,9 +14,10 @@
 - Python 3.x
 - OpenCV
 - PyQt5
-- pygetwindow
 - keyboard
 - numpy
+- pywin32
+
 
 ## วิธีติดตั้งและการใช้งาน
 1. ติดตั้ง Python 3.x จาก [เว็บไซต์หลักของ Python](https://www.python.org/downloads/).
