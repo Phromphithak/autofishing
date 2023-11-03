@@ -1,4 +1,4 @@
-# Autofish for Berlin v2 By XIL
+# Autofish v2 By XIL
 
 ![Autofish Icon](autofish_icon.png)
 
