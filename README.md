@@ -30,4 +30,4 @@
 - โปรแกรมนี้จะทำงานได้เฉพาะในระบบปฏิบัติการ Windows.
 
 ## ผู้จัดทำ
-- XIL ([GitHub Profile](https://github.com/XIL-LIN))
+- XIL ([GitHub Profile](https://github.com/Phromphithak))
