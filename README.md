@@ -1,6 +1,6 @@
 # Autofish v2 By XIL
 
-![Autofish Icon](autofish_icon.png)
+![Autofish Icon](fabicon.ico)
 
 ## คำอธิบาย
 โปรเจ็กต์นี้เป็นโปรแกรมที่ถูกพัฒนาโดย XIL และออกแบบมาเพื่อช่วยในกระบวนการตรวจจับสีแดงทับสีเขียวเพื่อให้สามารถทำงานอัตโนมัติ (Autofish) ในเกม Berlin ได้.
