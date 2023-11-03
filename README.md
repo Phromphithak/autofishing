@@ -14,6 +14,7 @@
 - Python 3.x
 - OpenCV
 - PyQt5
+- pygetwindow
 - keyboard
 - numpy
 - pywin32
