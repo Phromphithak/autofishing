@@ -74,7 +74,7 @@ class App(QMainWindow):
         if selected_resolution == "1920x1080":
             x1, x2, y1, y2 = 1666, 1794, 400, 520
         elif selected_resolution == "1600x900":
-            x1, x2, y1, y2 = 1348, 1465, 230, 330
+            x1, x2, y1, y2 = 1366, 1494, 322, 422
         else:
             # ใส่ค่าเริ่มต้นหรือเงื่อนไขเพิ่มเติมตามที่ต้องการ
             pass
